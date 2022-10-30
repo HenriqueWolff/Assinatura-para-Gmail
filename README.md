@@ -11,4 +11,5 @@ git clone https://github.com/HenriqueWolff/Assinatura.git
 - Após clonar o repositório abra e edite o arquivo "index.html" como desejar
 - Após editar abra "index.html" com um navegador <img src="https://user-images.githubusercontent.com/79487966/198859707-1bbe92e5-949c-45ee-bd70-e3a46cd2ea40.png"> 
 - Selecione tudo e copie <img scr="https://user-images.githubusercontent.com/79487966/198859885-8a756bc4-bef9-4e5c-bc76-acb506bc1f10.png">
-- Abra sua conta do Gmail, va nas configurações e abra a opções 
+- Abra sua conta do Gmail, va nas configurações e abra a opção de assinatura e cole lá
+- Pronto, agora só salvar as alterações e tera sua nova assinatura :call_me_hand:
