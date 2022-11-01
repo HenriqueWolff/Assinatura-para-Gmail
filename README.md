@@ -15,7 +15,7 @@ git clone https://github.com/HenriqueWolff/Assinatura.git
 - Desça até a opção de "assinatura", faça uma nova e no campo em branco cole a assinatura![teste](https://user-images.githubusercontent.com/79487966/199136858-fc158049-325c-4e4a-a280-b0b1858f63df.GIF)
 - Pronto, agora só salvar as alterações e tera sua nova assinatura :call_me_hand:
 
-**Note:**
+**Nota:**
 Este repositório foi inspirado neste: https://github.com/skarif2/gmail-signature
 
 
