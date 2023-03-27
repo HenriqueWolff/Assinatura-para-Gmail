@@ -8,7 +8,7 @@ Minha assinatura de email que utilizo no Gmail
 git clone https://github.com/HenriqueWolff/Assinatura.git
 ```
 
-- Após clonar o repositório abra e edite o arquivo "index.html" como desejar, neste arquivo você encontrar alguns comentarios para você se situar melhor, para visualizar seu trabalho abra o arquivo com um navegador.
+- Após clonar o repositório abra e edite o arquivo "index.html" como desejar, neste arquivo você encontrar alguns comentários para você se situar melhor, para visualizar seu trabalho abra o arquivo com um navegador.
 
 - Você verá algo semelhante a esta assinatura:
 <img src="https://user-images.githubusercontent.com/79487966/199131132-417c5c2f-903a-4399-a1b1-1e24901684f2.png"/>
